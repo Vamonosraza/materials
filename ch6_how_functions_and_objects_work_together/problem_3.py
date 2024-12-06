@@ -1,2 +1,3 @@
 class Stream:
     pass
+        
